@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.con1 {
+  background-image: linear-gradient(to bottom, #bfe9ff, #ff6e7f);
+  width: 60%;
+  height: 50%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.p1 {
+  color: #334155;
+  font-size: 15px;
+  font-family: 'roboto';
+}
+.button {
+  color: black;
+  background-color: #ffffff;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 5px;
+}
+.p2 {
+  color: #334155;
+  font-size: 10px;
+  font-family: 'roboto';
+}
